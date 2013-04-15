@@ -1,6 +1,6 @@
 {
   "name": "malifi-consolidate",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Adds template support to Malifi for the consolidate.js template engine consolidation library.",
   "keywords": [],
   "author": "Randy McLaughlin <8b629a9884@snkmail.com>",
