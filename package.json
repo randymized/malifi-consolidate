@@ -4,6 +4,10 @@
   "description": "Adds template support to Malifi for the consolidate.js template engine consolidation library.",
   "keywords": [],
   "author": "Randy McLaughlin <8b629a9884@snkmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/randymized/malifi-consolidate.git"
+  },
   "dependencies": {
     "consolidate": "0.9.x"
   },
