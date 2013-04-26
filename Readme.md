@@ -1,6 +1,6 @@
 # malifi-consolidate
 
-Adds template support to Malifi for the consolidate.js template engine consolidation library.
+Adds template support to [Malifi](https://github.com/randymized/malifi) for the consolidate.js template engine consolidation library.
 
 Using this, any template library supported by Consolidate.js should be usable with Malifi.
 
